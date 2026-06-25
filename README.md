@@ -1,5 +1,5 @@
-# java-backend-show-case
-# 📱 MobileStore - Enterprise Retail Management System
+
+# 📱 Boutika - Enterprise Retail Management System
 
 > A sophisticated backend SaaS platform for managing multi-store mobile retail operations in real-time, combining advanced inventory management, transactional integrity, and enterprise-grade security.
 
